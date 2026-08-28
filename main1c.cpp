@@ -3,7 +3,7 @@
 using namespace std;
 
 int main()
-{ //show the commit(git).....
+{ //show the commit(git)
     string input;
 
     cout << "Enter a function definition in one line: ";
